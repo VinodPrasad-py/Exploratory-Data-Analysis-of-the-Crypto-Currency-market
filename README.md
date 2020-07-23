@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-the-Crypto-Currency-market
+Analysing and Visualization of key facets of the Cryptocurrency market. Involved cleaning the Dataset to produce consistent results.Comparative measurement of the Volatility associated with the most popular crypto currencies in terms of Day trading and short term intervals. Statistically extracting the Market capital downfalls in relation to both most profitable and lest profitable crypto currencies. Catagorizing the currencies according it's net operating capital and indentifying key players in the market.
